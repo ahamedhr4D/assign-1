@@ -1,0 +1,71 @@
+.banner{
+    background-image: url(/resources/Banner\ Image.png);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+    width: auto;
+    text-align: center;
+    color: #86f20a;
+    font-size: 80px;
+    padding-top:60px ;
+    border: 1px solid red;
+   
+}
+#banner{
+    margin-top: 100px;
+}
+.category{
+    text-align: center; 
+}
+#off{
+    color:red;
+    font-size: 80px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.all{
+    font-size: 50px;
+}
+.new{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.party{
+  background-image: url(/resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: left;
+  height: 650px;
+  width: auto;
+  display: flex;
+  margin-bottom: 30px;
+  
+  
+  /* padding-left: 500px;
+  padding-top: 200px; */
+  justify-content: space-between;
+
+}
+#midd{
+    color: aliceblue;
+    font-size: 100px;
+    text-align: left;
+}
+#mid{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+#sit{
+    color: antiquewhite;
+    font-size: x-large;
+    margin-top: 5px;
+}
+#join{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#img{
+    padding-right: 350px;
+    padding-top: 100px;
+}
