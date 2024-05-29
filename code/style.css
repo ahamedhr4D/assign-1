@@ -69,3 +69,9 @@
     padding-right: 350px;
     padding-top: 100px;
 }
+.span{
+    text-align: center;
+    border: 2px solid coral;
+    margin-top: 60px;
+    font-size: 40px;
+}
