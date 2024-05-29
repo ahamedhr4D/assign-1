@@ -42,6 +42,7 @@
   margin-bottom: 30px;
   
   
+  
   /* padding-left: 500px;
   padding-top: 200px; */
   justify-content: space-between;
@@ -72,6 +73,128 @@
 .span{
     text-align: center;
     border: 2px solid coral;
-    margin-top: 60px;
+    margin-top: 80px;
     font-size: 40px;
+    background-color: bisque;
+    width: 1330px;
+    height: fit-content;
+    background-position: center;
+    margin-left: 280px;
+    border-radius: 30px;
+    padding-top: 100px;
+    margin-bottom: 80px ;
+    padding-bottom: 80px;
+}
+.place{
+    color: red;
+}
+.btn-primay{
+    font-size: 50px;
+    margin-top: 80px;
+    padding: 20px 30px;
+    background-color:orangered;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.offers{
+    display: flex;
+    width: 1330px;
+    
+    margin-left: 280px;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+.bestt{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#best{
+    font-size: xx-large;
+
+}
+#soon{
+    font-size:80px;
+    margin-top: 20px;
+}
+#dolor{
+    font-size: 30px;
+    margin-top: 20px;
+}
+#img2{
+    padding-top: 100px;
+
+    border: 10px solid red;
+    border-radius: 50%;
+    margin-top: 80px;
+    padding:40px 40px;
+    margin-bottom: 60px;
+}
+.bis{
+    padding-top: 100px;
+    text-align: left;
+}
+
+#bis{
+    font-size: 50px;
+}
+#son{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.gr{
+    margin-top: 50px;
+}
+.function{
+    text-align: center;
+    margin-bottom: 300px;
+}
+.is{
+    font-size: 30px;
+}
+#sale{
+    font-size: 50px;
+}
+.discount{
+    display: flex;
+    width: 1330px;
+    
+    
+   justify-content: end;
+   margin-left: 280px;
+   
+}
+#res{
+    padding-top: 30px;
+    margin-right: -100px;
+    border: none;
+
+    
+    
+   
+}
+.rect{
+    margin-top: -280px;
+    width: 1330px;
+    margin-left: 290px;
+    border: none;
+}
+#dara{
+    border: none;
+    width: 1330px;
+    margin-left: 290px;
+    margin-top: -400px;
+}
+.our{
+    width: 1330px;
+    margin-left: 290px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.the{
+    font-size: 30px;
+    margin-top: 20px;
+}
+#the{
+    font-size: 50px;
+    margin-top: 10px;
 }
