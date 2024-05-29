@@ -9,7 +9,7 @@
     color: #86f20a;
     font-size: 80px;
     padding-top:60px ;
-    border: 1px solid red;
+    
    
 }
 #banner{
@@ -122,8 +122,6 @@
 }
 #img2{
     padding-top: 100px;
-
-    border: 10px solid red;
     border-radius: 50%;
     margin-top: 80px;
     padding:40px 40px;
@@ -197,4 +195,103 @@
 #the{
     font-size: 50px;
     margin-top: 10px;
+}
+#crd{
+    width: 1330px;
+    margin-left: 290px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#crdd{
+    width: 1330px;
+    margin-left: 290px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+#mail{
+    width: 1330px;
+    margin-left: 290px;
+    justify-content: center;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 60px;
+}
+#subs{
+    font-size: 50px;
+    margin: 10px 10px;
+}
+.sitt{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+#text{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 30px;
+   font-size: x-large;
+   
+   border-top-left-radius: 30px ;
+   border-bottom-left-radius: 30px ;
+}
+.btn{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: x-large;
+    border-top-right-radius: 30px ;
+    border-bottom-right-radius: 30px ;
+    background-color:crimson ;
+    
+}
+#footer{
+    background-color: #070211;
+}
+#big{
+    color: aliceblue;
+    font-size: 30px;
+}
+#img5{
+    color: aliceblue;
+    display: flex;
+    font-size: 20px;
+}
+#img6{
+    color: aliceblue;
+    display: flex;
+    font-size: 20px;
+}
+#foot{
+    width: 1330px;
+    margin-left: 290px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-bottom: 2px solid whitesmoke;
+}
+#social{
+    width: 1300px;
+    margin-left: 290px;
+    text-align: center;
+    margin-top: 30px;
+    padding:20px ;
+    margin-bottom: 40px;
+    border-bottom: 2px solid whitesmoke;
+    padding-bottom: 40px;
+}
+.seven{
+    width: 1300px;
+    margin-left: 255px;
+    color: aliceblue;
+    padding-bottom: 100px;
+    padding-left: 30px;
+   
 }
